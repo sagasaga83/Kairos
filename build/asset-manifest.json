@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Kairos/static/css/main.b36c7293.css",
+    "main.js": "/Kairos/static/js/main.a9d3094a.js",
+    "static/media/11d.png": "/Kairos/static/media/11d.44ce89ca40e4b40ce6aa.png",
+    "static/media/11n.png": "/Kairos/static/media/11n.44ce89ca40e4b40ce6aa.png",
+    "static/media/10d.png": "/Kairos/static/media/10d.6cc4e59a0bc978484b9f.png",
+    "static/media/Wind.png": "/Kairos/static/media/Wind.65b2ca9e27ad6ac225f2.png",
+    "static/media/Humidity.png": "/Kairos/static/media/Humidity.2c7e0479747e4ba597aa.png",
+    "static/media/undefined.png": "/Kairos/static/media/undefined.d15ea6c4d0d81e46f85f.png",
+    "static/media/13d.png": "/Kairos/static/media/13d.9957456da0445490c376.png",
+    "static/media/13n.png": "/Kairos/static/media/13n.9957456da0445490c376.png",
+    "static/media/Thermometer.png": "/Kairos/static/media/Thermometer.b73417a2a8c0c0f2da84.png",
+    "static/media/Feelslike.png": "/Kairos/static/media/Feelslike.142d26f0bc0264bed47f.png",
+    "static/media/09d.png": "/Kairos/static/media/09d.d05e09379e6a6a9b19f3.png",
+    "static/media/09n.png": "/Kairos/static/media/09n.d05e09379e6a6a9b19f3.png",
+    "static/media/02d.png": "/Kairos/static/media/02d.20f0cc1d2fa7fabb49bb.png",
+    "static/media/50n.png": "/Kairos/static/media/50n.2f70dbfed6409fb2cfdd.png",
+    "static/media/01n.png": "/Kairos/static/media/01n.8244464e025eb3029822.png",
+    "static/media/10n.png": "/Kairos/static/media/10n.f5df1d3873733884a627.png",
+    "static/media/50d.png": "/Kairos/static/media/50d.6a699fc3d98d132e1c48.png",
+    "static/media/01d.png": "/Kairos/static/media/01d.e81609105b8eb137f55d.png",
+    "static/media/03n.png": "/Kairos/static/media/03n.dae6fbef552f49dc3c0c.png",
+    "static/media/04n.png": "/Kairos/static/media/04n.dae6fbef552f49dc3c0c.png",
+    "static/media/02n.png": "/Kairos/static/media/02n.e334596c430c3874618f.png",
+    "static/media/03d.png": "/Kairos/static/media/03d.f2cb60b3cadf055787c5.png",
+    "static/media/04d.png": "/Kairos/static/media/04d.f2cb60b3cadf055787c5.png",
+    "index.html": "/Kairos/index.html",
+    "main.b36c7293.css.map": "/Kairos/static/css/main.b36c7293.css.map",
+    "main.a9d3094a.js.map": "/Kairos/static/js/main.a9d3094a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b36c7293.css",
+    "static/js/main.a9d3094a.js"
+  ]
+}
